@@ -1,4 +1,4 @@
 # Pre-OSWE
 
-# CORS
+GO to Wiki
 
